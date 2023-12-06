@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Maior posicao\Maior posicao\bin\Debug\Maior posicao.exe.config
+C:\temp\ws-vs2019\Maior posicao\Maior posicao\bin\Debug\Maior posicao.exe
+C:\temp\ws-vs2019\Maior posicao\Maior posicao\bin\Debug\Maior posicao.pdb
+C:\temp\ws-vs2019\Maior posicao\Maior posicao\obj\Debug\Maior posicao.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Maior posicao\Maior posicao\obj\Debug\Maior posicao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Maior posicao\Maior posicao\obj\Debug\Maior posicao.exe
+C:\temp\ws-vs2019\Maior posicao\Maior posicao\obj\Debug\Maior posicao.pdb
